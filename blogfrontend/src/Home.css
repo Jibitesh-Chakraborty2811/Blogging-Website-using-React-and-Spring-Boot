@@ -1,0 +1,45 @@
+body
+{
+    background-color:#01552f;
+    padding-bottom: 10rem;
+}
+#Posts
+{
+    margin: 0;
+    font-size: 7rem;
+    margin-top: 4rem;
+    font-family: Garamond;
+    margin-left: 2rem;
+    text-align: center;
+    color:aliceblue;
+}
+
+#container
+{
+    display: flex;
+    flex-direction: column;
+    
+    margin-top: 5rem;
+    width: 30rem;
+    margin-left: 33rem;
+    background-color: aliceblue;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 2rem;
+}
+
+#title
+{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: Lucida Handwriting;
+}
+
+#content
+{
+    text-align: center;
+    font-family: Brush Script MT;
+    font-size: 1.5rem;
+}
